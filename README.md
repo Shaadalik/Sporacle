@@ -28,3 +28,4 @@ Customize durations/easing by editing variants in:
 - `components/Sporcbot.tsx` (FAB + modal)
 
 
+# Sporacle
