@@ -1,12 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sporacle AI — Private‑Labeled App
 
-# Sporacle AI — Private-Labeled App
-
-This contains everything you need to run your app locally.
-
-This app is branded as Sporacle AI and uses a private backend AI client. No third-party branding is shown in the UI.
+This repo contains the Sporacle AI web app. It retains all features (chatbot, animations, tabs, trends, insights) while showing zero third‑party branding.
 
 ## Run Locally
 
@@ -32,5 +26,5 @@ Customize durations/easing by editing variants in:
 - `components/Button.tsx` (hover/tap)
 - `components/MetricTile.tsx` (entrance)
 - `components/Sporcbot.tsx` (FAB + modal)
-# Sporacle
-# Sporacle
+
+
