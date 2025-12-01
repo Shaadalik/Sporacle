@@ -1,0 +1,7 @@
+{
+  "name": "Sporacle",
+  "description": "A luxury, high-fidelity mushroom farm management application focused on minimal friction and real-time monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
